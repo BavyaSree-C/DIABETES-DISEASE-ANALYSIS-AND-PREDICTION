@@ -42,16 +42,12 @@ The **PIMA Indian Diabetes Dataset** contains medical and demographic data to pr
   - 💻 **Support Vector Machine (SVM)**
   - 👥 **K-Nearest Neighbors (KNN)**
   - 🌳 **Decision Tree**
-- 🎯 Performed **hyperparameter tuning** using **grid search** for optimal model performance.
 
 ---
 
 ### 4️⃣ **Evaluation**
 - 📈 Models were evaluated using metrics like:
   - **Accuracy**
-  - **Precision**
-  - **Recall**
-  - **F1-score**
 - 🧮 Generated **confusion matrices** for detailed performance analysis.
 
 ---
@@ -62,7 +58,6 @@ The **PIMA Indian Diabetes Dataset** contains medical and demographic data to pr
 
 ### 💡 **Insights:**
 - 🩺 **Glucose** and **BMI** are the most significant predictors of diabetes.
-- ⚖️ The dataset showed a slight **class imbalance**, which was handled using **oversampling/undersampling techniques**.
 
 
 ---
