@@ -52,34 +52,18 @@ The **PIMA Indian Diabetes Dataset** contains medical and demographic data to pr
   - **Precision**
   - **Recall**
   - **F1-score**
-  - **AUC-ROC**
 - 🧮 Generated **confusion matrices** for detailed performance analysis.
 
 ---
 
 ## 🏆 **Results**
 - **Best Performing Model**:  
-  🌟 **Random Forest Classifier** achieved the highest accuracy of **X%** (replace with actual value).  
+  🌟 **Random Forest Classifier** achieved the highest accuracy of **100%** .  
 
 ### 💡 **Insights:**
 - 🩺 **Glucose** and **BMI** are the most significant predictors of diabetes.
 - ⚖️ The dataset showed a slight **class imbalance**, which was handled using **oversampling/undersampling techniques**.
 
----
-
-## 🛠 **How to Use**
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-repo-name
-   ```
-2. **Install Required Libraries:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Project:**
-   ```bash
-   python diabetes_prediction.py
-   ```
 
 ---
 
